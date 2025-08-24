@@ -1,4 +1,4 @@
-# 🏥 Thyroid Microwave Ablation Survey Dashboard
+# Thyroid Microwave Ablation Survey Dashboard
 
 **Aaroha Meditech PVT LTD** - A sophisticated Next.js 15 web application for collecting and visualizing thyroid microwave ablation therapy survey responses with an advanced analytics dashboard.
 
@@ -8,34 +8,34 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-green)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC)
 
-## ✨ Features
+## Features
 
-### 📋 Survey Collection
+###  Survey Collection
 - **Comprehensive Survey Form**: Multi-step form for collecting detailed doctor responses
 - **Real-time Validation**: Form validation with immediate feedback
 - **Professional UI**: Modern, responsive design with beautiful gradient backgrounds
 - **Error Handling**: Robust error boundaries for seamless user experience
 
-### 📊 Advanced Analytics Dashboard
+###  Advanced Analytics Dashboard
 - **Interactive Charts**: Beautiful data visualizations powered by Recharts
 - **Dual View Modes**: Switch between Analytics Dashboard and Response Table
 - **Professional Styling**: Dark theme with cyan accents (#7ee9fa) and gradient backgrounds
 - **Real-time Data**: Live updates from MongoDB Atlas
 
-### 🎯 Data Management
+###  Data Management
 - **Selective Export**: Checkbox selection for downloading specific doctor responses as CSV
 - **Doctor Filtering**: Easy selection of individual or multiple doctors
 - **Comprehensive Table View**: Detailed response data with professional styling
 - **Secure Storage**: MongoDB Atlas integration with proper data validation
 
-### 🎨 UI/UX Excellence
+###  UI/UX Excellence
 - **Beautiful Gradients**: Pink-to-purple-to-indigo gradient backgrounds
 - **Professional Dark Theme**: Consistent dark theme with #181c2a background
 - **Tab Navigation**: Enhanced tab system with visual indicators
 - **Responsive Design**: Mobile-first approach with Tailwind CSS
 - **Company Branding**: Aaroha Meditech PVT LTD branding throughout
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - **Node.js** (v18+ recommended)
@@ -71,7 +71,7 @@
    - **Survey Form**: `http://localhost:3001`
    - **Admin Dashboard**: `http://localhost:3001/admin/responses`
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 ### Frontend
 - **Next.js 15.2.4** - React framework with App Router
@@ -91,7 +91,7 @@
 - **PostCSS** - CSS processing
 - **pnpm** - Package manager
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 thyroid-survey/
@@ -114,7 +114,7 @@ thyroid-survey/
 └── styles/                      # Global styles
 ```
 
-## 🎯 Key Components
+##  Key Components
 
 ### Dashboard Features
 - **MainDashboard.tsx**: Enhanced tab navigation with professional styling
@@ -146,7 +146,7 @@ pnpm build
 pnpm start
 ```
 
-## 🎨 Design System
+##  Design System
 
 ### Color Palette
 - **Primary Background**: #181c2a (Dark theme)
@@ -167,7 +167,7 @@ pnpm start
 4. **Export Data**: Click "Export Selected to CSV" for chosen responses
 5. **View Analytics**: Interactive charts showing response patterns
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -175,17 +175,16 @@ pnpm start
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🏢 About Aaroha Meditech PVT LTD
+## About Aaroha Meditech PVT LTD
 
 This application is developed for Aaroha Meditech PVT LTD, specializing in advanced medical technologies and thyroid microwave ablation therapy solutions.
 
 ---
 
-**Built with ❤️ by the development team**
 - For new dashboard features, create new components in `dashboard/` and update API routes as needed
 
 ## Contributing
@@ -202,4 +201,6 @@ This application is developed for Aaroha Meditech PVT LTD, specializing in advan
 - Write clear commit messages
 
 ## Contact
-For questions or suggestions, open an issue or contact the maintainer.
+For questions or suggestions, open an issue or contact the maintainer
+
+Mail- revanthvarma418@gmail.com
